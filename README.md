@@ -19,7 +19,7 @@
 ### Qualitative Comparison
 ![Qualitative_comparison](figures/Qualitative_comparisons.png)
 
-### Quantitative Comparisons
+### Quantitative Comparison
 ![Quantitative comparisons](figures/Quantitative_comparisons.png)
 
 ## Dependencies
