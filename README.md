@@ -16,11 +16,11 @@
 
 ## Evaluations
 
-### Quantitative Comparison
-![Quantitative comparison](figures/Quantitative_comparisons.png)
-
-### Qualitative Comparisons
+### Qualitative Comparison
 ![Qualitative_comparison](figures/Qualitative_comparisons.png)
+
+### Quantitative Comparisons
+![Quantitative comparisons](figures/Quantitative_comparisons.png)
 
 ## Dependencies
 
