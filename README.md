@@ -1,10 +1,13 @@
-# Overlapped Wavelet Diffusion for Low-Light Image Enhancement
+## Overlapped Wavelet Diffusion for Low-Light Image Enhancement
 
-**Fen Peng**<sup>1</sup>, Taizo Suzuki<sup>2</sup>, and Seisuke Kyochi<sup>3</sup>
-
-*(Accepted by IEICE Trans. Inf. & Syst., Jan. 2027.)*<br>
-[![arXiv](https://img.shields.io/badge/arXiv-Preprint-7A221E?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/) [![Paper](https://img.shields.io/badge/IEICE-Accepted-44cc11?style=flat-square)](#)
-
+<p align="center">
+  <b>Fen Peng</b><sup>1</sup>, Taizo Suzuki<sup>2</sup>, and Seisuke Kyochi<sup>3</sup>
+  <br>
+  <i>(Accepted by IEICE Trans. Inf. & Syst., Jan. 2027.)</i>
+  <br>
+  <a href="https://arxiv.org/"><img src="https://img.shields.io/badge/arXiv-Preprint-7A221E?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="#"><img src="https://img.shields.io/badge/IEICE-Accepted-44cc11?style=flat-square" alt="Paper"></a>
+</p>
 
 ---
 
