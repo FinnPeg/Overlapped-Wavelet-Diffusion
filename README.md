@@ -10,6 +10,12 @@
 
 ![Pipeline](figures/Overall_pipeline.png)
 
+>**Summary:** In this study, we propose an overlapped wavelet diffusion framework for Low-Light Image Enhancement (LLIE), which incorporates two complementary components to achieve blocking artifact-free and detail-preserving enhancement.
+Although recent diffusion-based LLIE methods have demonstrated remarkable performance compared with traditional approaches, DiffLL still suffers from blocking artifacts caused by the Haar Wavelet Transform (WT) and blurred edges or over-smoothed textures due to the limitations of its High-Frequency Restoration Module (HFRM).
+To overcome these issues, we introduce an \textit{Overlapped} WT (OWT) that incorporates correlations across neighboring regions, thereby structurally preventing blocking artifacts.
+Furthermore, we integrate a low-frequency-guided High-Frequency Enhance Block (HFEBlock) to strengthen detail recovery, yielding sharper edges and more reliable textures.
+Extensive experiments on the LOLv1 and LOLv2-real datasets demonstrate that our framework, termed ``OWDiff,'' consistently outperforms existing LLIE methods both qualitatively and quantitatively, achieving superior visual quality while maintaining computational efficiency.
+
 ## Qualitative Comparison
 
 ![Qualitative_comparison](figures/Qualitative_comparison.png)
