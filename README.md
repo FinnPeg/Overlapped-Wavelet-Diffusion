@@ -2,7 +2,9 @@
 
 **Fen Peng**<sup>1</sup>, Taizo Suzuki<sup>2</sup>, and Seisuke Kyochi<sup>3</sup>
 
-*(Accepted by IEICE Trans. Inf. & Syst.)*
+*(Accepted by IEICE Trans. Inf. & Syst., Jan. 2027.)*<br>
+[![arXiv](https://img.shields.io/badge/arXiv-Preprint-7A221E?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/) [![Paper](https://img.shields.io/badge/IEICE-Accepted-44cc11?style=flat-square)](#)
+
 
 ---
 
