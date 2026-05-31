@@ -10,7 +10,7 @@
 
 ![Pipeline](figures/Overall_pipeline.png)
 
-## Visual Comparison
+## Qualitative Comparison
 
 ![Qualitative_comparison](figures/Qualitative_comparison.png)
 
@@ -21,6 +21,31 @@ pip install -r requirements.txt
 ```
 
 
-## Download datasets
-LOLv1 : C. Wei, J. W. Wang, H. W. Yang, and Y. J. Liu. "Deep Retinex Decomposition for Low-Light Enhancement", arXiv preprint arXiv:1808.04560, 2018. [Google Drive]
-LOLv2 dataset: H. W. Yang, J. W. Wang, F. H. Huang, Q. S. Wang, and Y. J. Liu. "Sparse Gradient Regularized Deep Retinex Network for Robust Low-Light Image Enhancement", IEEE Trans. Image Process, 2021. [Google Drive]
+## Datasets Download
+* **LOLv1:** C. Wei, J. W. Wang, H. W. Yang, and Y. J. Liu. "Deep Retinex Decomposition for Low-Light Enhancement", arXiv preprint arXiv:1808.04560, 2018. [[Google Drive](https://drive.google.com/file/d/18bs_mAREhLipaM2qvhxs7u7ff2VSHet2/view)]
+* **LOLv2:** H. W. Yang, J. W. Wang, F. H. Huang, Q. S. Wang, and Y. J. Liu. "Sparse Gradient Regularized Deep Retinex Network for Robust Low-Light Image Enhancement", IEEE Trans. Image Process, 2021. [[Google Drive](https://drive.google.com/file/d/1dzuLCk9_gE2bFF222n3-7GVUlSVHpMYC/view)]
+
+## Pretrained Models
+Coming soon.
+
+## Train the model
+Coming soon.
+
+## Test the model
+Coming soon.
+
+## Citation
+
+If you find our work useful in your research, please consider citing our paper:
+
+```bibtex
+@article{Peng2026OWDiff,
+  title={Overlapped Wavelet Diffusion for Low-Light Image Enhancement},
+  author={Peng, Fen and Suzuki, Taizo and Kyochi, Seisuke},
+  journal={arXiv preprint arXiv:[XXXX.XXXXX]},
+  year={2026}
+}
+```
+
+## Acknowledgement
+Part of the code is adapted from previous works: DiffLL and Wave-Mamba. We thank all the authors for their contributions.
