@@ -19,10 +19,10 @@
 
 ## Evaluations
 
-### Qualitative Comparison
+### ◦ Qualitative Comparison
 ![Qualitative_comparison](figures/Qualitative_comparisons.png)
 
-### Quantitative Comparison
+### ◦ Quantitative Comparison
 ![Quantitative comparisons](figures/Quantitative_comparisons.png)
 
 ## Dependencies
@@ -34,8 +34,9 @@ pip install -r requirements.txt
 
 ## Datasets Download
 
-* **LOLv1:** C. Wei, J. W. Wang, H. W. Yang, and Y. J. Liu. "Deep Retinex Decomposition for Low-Light Enhancement", arXiv preprint arXiv:1808.04560, 2018. [[Google Drive](https://drive.google.com/file/d/18bs_mAREhLipaM2qvhxs7u7ff2VSHet2/view)]
-* **LOLv2:** H. W. Yang, J. W. Wang, F. H. Huang, Q. S. Wang, and Y. J. Liu. "Sparse Gradient Regularized Deep Retinex Network for Robust Low-Light Image Enhancement", IEEE Trans. Image Process, 2021. [[Google Drive](https://drive.google.com/file/d/1dzuLCk9_gE2bFF222n3-7GVUlSVHpMYC/view)]
+◦ **LOLv1:** C. Wei, J. W. Wang, H. W. Yang, and Y. J. Liu. "Deep Retinex Decomposition for Low-Light Enhancement", arXiv preprint arXiv:1808.04560, 2018. [[Google Drive](https://drive.google.com/file/d/18bs_mAREhLipaM2qvhxs7u7ff2VSHet2/view)]
+<br>
+◦ **LOLv2:** H. W. Yang, J. W. Wang, F. H. Huang, Q. S. Wang, and Y. J. Liu. "Sparse Gradient Regularized Deep Retinex Network for Robust Low-Light Image Enhancement", IEEE Trans. Image Process, 2021. [[Google Drive](https://drive.google.com/file/d/1dzuLCk9_gE2bFF222n3-7GVUlSVHpMYC/view)]
 
 ## Pretrained Models
 
