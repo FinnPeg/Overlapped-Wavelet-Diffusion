@@ -49,7 +49,8 @@ Coming soon.
 
 ## Test the model
 
-Coming soon.
+```bash
+python evaluate.py
 
 ## Citation
 
