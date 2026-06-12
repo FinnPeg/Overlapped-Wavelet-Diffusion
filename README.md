@@ -3,10 +3,10 @@
 <p align="center">
   <b>Fen Peng</b><sup>1</sup>, Taizo Suzuki<sup>2</sup>, and Seisuke Kyochi<sup>3</sup>
   <br>
-  <i>(Accepted by IEICE Trans. Inf. & Syst., Jan. 2027.)</i>
+  <i>((Advance published in IEICE Transactions on Information and Systems, 2026. Scheduled for Vol. E110-D, No. 1, Jan. 2027. DOI: 10.1587/transinf.2026PCP0006)</i>
   <br>
-  <a href="https://arxiv.org/"><img src="https://img.shields.io/badge/arXiv-Preprint-7A221E?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
-  <a href="#"><img src="https://img.shields.io/badge/IEICE-Accepted-44cc11?style=flat-square" alt="Paper"></a>
+<a href="https://arxiv.org/abs/2606.10280"><img src="https://img.shields.io/badge/arXiv-2606.10280-7A221E?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://doi.org/10.1587/transinf.2026PCP0006"><img src="https://img.shields.io/badge/IEICE-Paper-44cc11?style=flat-square" alt="Paper"></a>
 </p>
 
 ---
