@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## Pretrained Models
 
-Coming soon.
+The pretrained model will be publicly released upon the official publication of our paper (scheduled for January 2027)
 
 ## Train the model
 1. Place your dataset into the `datasets` directory.
