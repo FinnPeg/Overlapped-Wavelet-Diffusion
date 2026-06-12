@@ -48,11 +48,13 @@ Coming soon.
 2. Adjust the data paths in `datasets/dataset.py` to match your local environment settings, and then run:
 ```bash
 python train.py
+```
 
 ## Test the model
 You can test the model by running:
 ```bash
 python test.py
+```
 
 ## Citation
 
