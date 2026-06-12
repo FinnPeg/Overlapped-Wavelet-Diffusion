@@ -44,8 +44,8 @@ pip install -r requirements.txt
 The pretrained model will be publicly released upon the official publication of our paper (scheduled for January 2027).
 
 ## Train the model
-1. Place your dataset into the `datasets` directory.
-2. Adjust the data paths in `datasets/dataset.py` to match your local environment settings, and then run:
+1. Place datasets into the `datasets` directory.
+2. Adjust the data paths in `datasets/datasets.py` to match your local environment settings, and then run:
 ```bash
 python train.py
 ```
