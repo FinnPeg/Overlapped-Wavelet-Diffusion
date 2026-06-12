@@ -56,14 +56,12 @@ If you find our work useful in your research, please consider citing our paper:
 
 ```bibtex
 @article{Peng2027OWDiff,
- title = {Overlapped Wavelet Diffusion for Low-Light Image Enhancement},
- author = {F. Peng and T. Suzuki and S. Kyochi},
- journal = {IEICE Trans. Inf. \& Syst.},
- volume = {E110-D},
- number = {1},
- year = {2027},
- month = {Jan.},
- note = {Accepted for publication}
+  title   = {Overlapped Wavelet Diffusion for Low-Light Image Enhancement},
+  author  = {Peng, Fen and Suzuki, Taizo and Kyochi, Seisuke},
+  journal = {IEICE Transactions on Information and Systems},
+  year    = {2026},
+  doi     = {10.1587/transinf.2026PCP0006},
+  note    = {Advance online publication}
 }
 ```
 
